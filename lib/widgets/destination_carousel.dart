@@ -87,6 +87,8 @@ class DestinationCarousel extends StatelessWidget {
                                   style: TextStyle(
                                     color: Colors.grey,
                                   ),
+                                  maxLines: 2,
+                                  overflow: TextOverflow.ellipsis,
                                 ),
                               ],
                             ),
