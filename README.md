@@ -1,6 +1,6 @@
 # travel_ui
 
-A new Flutter project.
+A new Flutter project based on youtube tutorial https://www.youtube.com/watch?v=CSa6Ocyog4U
 
 ## Getting Started
 
